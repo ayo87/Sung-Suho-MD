@@ -7,7 +7,7 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {suho~d2NzERKY#oMDmgQQ77XuVXWYMNhl2VgWlugieZdDz7PxgJunAPcc
       "description": "Must Start with 'suho~'",
       "required": true,
       "value": ""
